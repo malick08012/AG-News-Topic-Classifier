@@ -60,13 +60,13 @@ The main objectives of this project were:
 
 ## How to Run This Project:
 
- **Open in Kaggle/Colab:** Upload the `.ipynb` notebook file to a new Kaggle Notebook or Google Colab session.
- 
+1.**Open in Kaggle/Colab:** Upload the `.ipynb` notebook file to a new Kaggle Notebook or Google Colab session.
+
 2.  **Enable GPU:** In Kaggle Notebooks, go to "Settings" (right sidebar) and set "Accelerator" to "GPU". In Google Colab, go to `Runtime > Change runtime type` and select "GPU".
-3.  
-4.  **Run All Cells:** Execute all cells in the notebook from top to bottom. The notebook is designed to guide you through installations, data loading, model training, evaluation, and finally, launching the Gradio demo.
-5.  
-6.  **Interact with Gradio:** After the final cell executes, look for a public URL (e.g., `https://xxxxxx.gradio.live`) in the cell output. Click this URL to open the interactive classifier in a new tab.
+
+3.  **Run All Cells:** Execute all cells in the notebook from top to bottom. The notebook is designed to guide you through installations, data loading, model training, evaluation, and finally, launching the Gradio demo.
+
+4.  **Interact with Gradio:** After the final cell executes, look for a public URL (e.g., `https://xxxxxx.gradio.live`) in the cell output. Click this URL to open the interactive classifier in a new tab.
    
 
 
